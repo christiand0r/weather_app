@@ -66,7 +66,7 @@ const Form = ({ search, setSearch, setConsult }) => {
           <option value='PE'>Perú</option>
           <option value='VE'>Venezuela</option>
         </select>
-        <label htmlFor='country'>Ciudad:</label>
+        <label htmlFor='country'>País:</label>
       </div>
 
       <div className='input-field col s12'>
